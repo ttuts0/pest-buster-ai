@@ -1,6 +1,6 @@
 # Storage layer
 
-How PestBusterAI stores drone images and their metadata. The tables follow section 2A of the System Architecture & Data Design document.
+How PestBusterAI stores drone images and their metadata.
 
 ## S3
 

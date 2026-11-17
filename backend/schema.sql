@@ -1,5 +1,4 @@
 -- PestBusterAI database schema (PostgreSQL 13+)
--- Follows section 2A of the System Architecture & Data Design document.
 -- Chain: vineyards -> blocks -> flights -> images -> detections
 
 CREATE TABLE users (
